@@ -1,0 +1,10 @@
+{
+	"prettier.documentSelectors": ["**/*.tsx", "**/*.ts", "**/*.js", "**/*.jsx", "**/*.scss", "**/*.css"],
+	"singleQuote": true,
+	"trailingComma": "all",
+	"tabWidth": 4,
+	"semi": true,
+	"arrowParens": "always",
+	"useTabs": true,
+	"printWidth": 120
+}
