@@ -49,7 +49,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 					src="https://frontend.webpipeline.messe-muenchen.de/webp/gbw-uc/master/public/bundle/bundle.esm.js"
 					defer
 				></script>
-				{/* <script type="module" src="http://localhost:3333/public/bundle/bundle.esm.js" defer></script> */}
+				{/* <script type="module" src="http://localhost:3334/public/bundle/bundle.esm.js" defer></script> */}
 
 				{/* mm-image */}
 				<link
@@ -83,7 +83,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 					type="module"
 					defer
 				></script>
-				{/* <script type="module" src="http://localhost:3334/public/bundle/bundle.esm.js" defer></script> */}
+				{/* <script type="module" src="http://localhost:3333/public/bundle/bundle.esm.js" defer></script> */}
 
 				{/* gbw-uc vars */}
 				<script
